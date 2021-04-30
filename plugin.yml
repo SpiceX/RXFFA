@@ -1,0 +1,7 @@
+name: RXFFA
+main: rxffa\spicex\rxffa\RXFFA
+version: 1.0-beta
+api: [4.0.0]
+author: SpiceX
+website: https://github.com/SpiceX
+description: FFA Plugin por PM4
